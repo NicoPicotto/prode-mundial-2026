@@ -60,7 +60,7 @@ Al correr el modelo se generan en `output/`:
 Necesitás Python 3.9+.
 
 ```bash
-git clone <tu-repo>
+git clone https://github.com/NicoPicotto/prode-mundial-2026.git
 cd prode-mundial-2026
 
 # (opcional) entorno virtual
